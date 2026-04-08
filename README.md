@@ -14,37 +14,44 @@ With the rise of remote work and online education, platforms like Zoom Video Com
 
 This project is inspired by such platforms and aims to replicate and understand how real-time communication systems work, while implementing additional customization features for better user experience.
 
-✨ Features
+✨ Features:-
 🔐 Authentication & Security
 Secure user login and registration system
 Protected routes for authorized access
 Encrypted communication for privacy
+
 📡 Real-Time Communication
 High-quality video and audio calling using WebRTC
 Low-latency real-time interaction
 Stable peer-to-peer connections
+
 🧑‍🤝‍🧑 Meeting System
 Create and join meeting rooms using unique Room IDs
 Multi-user participation support
 Real-time user join/leave updates
+
 🤝 Collaboration Tools
 Live chat messaging during meetings
 Screen sharing for presentations and demos
 Interactive communication features
+
 🎨 UI/UX & Personalization
 Clean and modern user interface
 Dark / Light mode toggle
 Virtual background change feature
 Fully responsive design (mobile + desktop)
+
 🎥 Recording & Media
 Record meetings in real-time
 Save and manage recorded sessions
 Playback support for recordings
+
 ⚡ Performance & Scalability
 Optimized frontend and backend architecture
 Efficient handling of multiple users
 Fast and smooth user experience
-🛠️ Tech Stack
+
+🛠️ Tech Stack:-
 🔹 Frontend
 React.js
 Tailwind CSS
@@ -57,15 +64,15 @@ Socket.io
 WebRTC
 🔹 Database (Optional)
 MongoDB (for user data & recordings metadata)
-📂 Project Structure
+
+📂 Project Structure:-
 Video-Conferencing-App/
 │── client/        # React frontend
 │── server/        # Node.js backend
 │── .gitignore     # Ignored files
 │── README.md      # Documentation
-⚙️ Prerequisites
 
-Make sure you have installed:
+Make sure you have installed:-
 
 Node.js
 npm / yarn
@@ -81,13 +88,14 @@ npm install
 npm run dev
 🎯 Purpose
 
-This project demonstrates:
+This project demonstrates:-
 
 Real-time communication using WebRTC
 Full-stack development with MERN + Socket.io
 Building scalable and interactive web applications
 Implementing modern UI/UX practices
-🔮 Future Scope
+
+🔮 Future Scope:-
 💳 Authentication with OAuth (Google Sign-In)
 📡 AI-based noise cancellation
 🧠 Smart background blur
